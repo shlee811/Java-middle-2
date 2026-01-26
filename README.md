@@ -1,3 +1,1 @@
-# Java-middle-2
-# Java-middle2
-# Java-middle2
+#김영한 자바 중급 2편 코드
