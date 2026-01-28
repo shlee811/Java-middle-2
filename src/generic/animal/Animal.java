@@ -1,6 +1,7 @@
 package generic.animal;
 
 public class Animal {
+
     private String name;
     private int size;
 
