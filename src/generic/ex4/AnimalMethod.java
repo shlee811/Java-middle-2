@@ -17,4 +17,5 @@ public class AnimalMethod {
     }
 }
 
-//`checkup()` , `getBigger()` 라는 두 개의 제네릭 메서드를 정의했다. 둘 다 `Animal` 을 상한으로 제한한다.
+//`checkup()` , `getBigger()` 라는 두 개의 제네릭 메서드를 정의했다.
+// 둘 다 `Animal` 을 상한으로 제한한다.
